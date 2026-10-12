@@ -1,0 +1,6 @@
+{
+  "name": "WL Lab Inventory Manager",
+  "description": "Wireline Laboratory inventory and parts management with modern dark mode, robust salted PBKDF2 security, offline sync, SharePoint integration, and real-time collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
